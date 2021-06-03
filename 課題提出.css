@@ -69,12 +69,11 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-/* すべての画面サイズで適用される設定 */
+
 .social i {
   color: black;
 }
 
-/* タブレット縦置きサイズ（768px）以下の際に適用される設定 */
 @media screen and (max-width: 768px) {
   .social i {
     width: 100％;
